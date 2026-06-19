@@ -1,0 +1,21 @@
+Terms and Conditions for Enterprise Employee Management System (EMS) Prototype
+
+Copyright (c) 2026 Shubham Sharma. All Rights Reserved.
+
+This software, including all backend source code, database schemas, architectural 
+designs, and front-end interface components, is the proprietary and confidential 
+property of Shubham Sharma.
+
+1. RESTRICTIONS
+No individual, organization, or entity is granted permission to copy, redistribute, 
+sub-license, modify, reverse-engineer, or use this codebase, in whole or in part, 
+for commercial or non-commercial deployment without explicit prior written consent 
+from the copyright owner.
+
+2. PORTFOLIO VISIBILITY EXCEPTION
+Permission is granted solely for the visual review and architectural evaluation of 
+this codebase by prospective employers, technical evaluators, and academic reviewers 
+via this public GitHub repository interface. 
+
+Any unauthorized extraction or replication of this system's multi-tenant logic or 
+security architecture blocks will constitute a violation of copyright law.
